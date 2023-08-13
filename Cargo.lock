@@ -3,5 +3,13 @@
 version = 3
 
 [[package]]
-name = "prime_factorization"
+name = "gcd"
+version = "0.1.0"
+
+[[package]]
+name = "prime_fact"
+version = "0.1.0"
+
+[[package]]
+name = "sieve"
 version = "0.1.0"
